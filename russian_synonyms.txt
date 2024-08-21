@@ -1,0 +1,22 @@
+adult,взрослый,совершеннолетний,половозрелый,эротический,порнографический,сексуальный
+оружие,огнестрельное оружие,холодное оружие,боеприпасы,вооружение,арсенал,снаряжение
+насилие,жестокость,агрессия,нападение,избиение,драка,побои,травма,убийство,преступление
+политика,государственная деятельность,власть,правление,партия,выборы,политическая борьба
+религия,вера,богослужение,культ,церковь,мечеть,храм,молитва,духовность
+трагедия,катастрофа,несчастье,бедствие,горе,страдание,потеря,гибель
+Россия,Российская Федерация, РФ
+Украина
+Израиль
+Палестина
+конфликт,столкновение,противостояние,ссора,спор,разногласие,война,битва,сражение,боевые действия
+adult,adult,mature,of age,erotic,pornographic,sexual
+weapon,firearm,cold weapon,ammunition,armament,arsenal,equipment
+violence,cruelty,aggression,attack,beating,fight,battery,injury,murder,crime
+politics,government activity,power,government,party,elections,political struggle
+religion,faith,worship,cult,church,mosque,temple,prayer,spirituality
+tragedy,catastrophe,misfortune,disaster,grief,suffering,loss,death
+Russia,Russian Federation, RF
+Ukraine
+Israel
+Palestine
+conflict,clash,confrontation,quarrel,dispute,disagreement,war,battle,fight,hostilities
